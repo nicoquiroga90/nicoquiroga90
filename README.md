@@ -1,4 +1,4 @@
-## Hi there!👋 I'm Nico, a Full Stack Developer based in Copenhagen, Denmark.
+## Hi there!👋 I'm Nico, a Full Stack Developer based in Copenhagen, Denmark 🇩🇰 
 
 - 🔭 Currently available to join a project!
 - 🌱 Learning a lot from [HackYourFuture Denmark](https://www.hackyourfuture.dk)
