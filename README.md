@@ -8,6 +8,7 @@
 
 [<img src="https://skillicons.dev/icons?i=github" alt="Github" title="Github" />](https://github.com/nicoquiroga90)
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" title="Linkedin" />](https://www.linkedin.com/in/nicolas-quiroga90/)
+[<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" title="Gmail" />](nico1290@gmail.com)
 
 ### Languages and tools I use
 
