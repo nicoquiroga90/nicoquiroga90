@@ -28,5 +28,5 @@
 
 ### My CodeWars Rank 🎖️
 
-![Codewars](https://github.r2v.ch/codewars?user=LisekARG500&name=true&top_languages=true&stroke=%FFFFFF&theme=gradient_light)
+![Codewars](https://github.r2v.ch/codewars?user=LisekARG500&name=true&top_languages=true&stroke=white&theme=gradient_light)
 
