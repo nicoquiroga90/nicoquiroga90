@@ -25,3 +25,7 @@
 [<img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" title="Mysql" />](https://mysql.com)
 [<img src="https://skillicons.dev/icons?i=mongodb" alt="Mongodb" title="Mongodb" />](https://mongodb.com)
 [<img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />](https://postman.com)
+
+### My CodeWars Rank 🎖️
+
+![Codewars](https://github.r2v.ch/codewars?user=LisekARG500&stroke=White)
