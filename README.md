@@ -28,5 +28,11 @@
 
 ### My CodeWars Rank 🎖️
 
-![Codewars](https://github.r2v.ch/codewars?user=LisekARG500&name=true&top_languages=true&stroke=white&theme=gradient_light)
+<p align="center" >
+    <a href="https://www.codewars.com/users/LisekARG500">
+      <img src="[https://github.r2v.ch/codewars?user=USERNAME](https://github.r2v.ch/codewars?user=LisekARG500&name=true&top_languages=true&stroke=white&theme=gradient_light&hide_clan=true)" />
+    </a>
+</p>
+
+![Codewars](https://github.r2v.ch/codewars?user=LisekARG500&name=true&top_languages=true&stroke=white&theme=gradient_light&hide_clan=true)
 
