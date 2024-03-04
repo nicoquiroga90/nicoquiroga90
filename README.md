@@ -1,5 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-I'm Nico, a Full Stack Developer based in Copenhagen, Denmark 🇩🇰 
+## Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Nico, a Full Stack Developer based in Copenhagen, Denmark 🇩🇰 
 
 - 🔭 Currently available to join a project!
 - 🌱 Learning a lot from [HackYourFuture Denmark](https://www.hackyourfuture.dk)
