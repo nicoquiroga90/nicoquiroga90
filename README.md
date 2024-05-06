@@ -25,7 +25,7 @@
 [<img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" title="Mysql" />](https://mysql.com)
 [<img src="https://skillicons.dev/icons?i=mongodb" alt="Mongodb" title="Mongodb" />](https://mongodb.com)
 [<img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />](https://postman.com)
-[<img src="https://skillicons.dev/icons?i=postman" alt="Jest" title="Jest" />](https://jestjs.io)
+[<img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest" />](https://jestjs.io)
 
 ### My CodeWars Rank 🎖️
 
