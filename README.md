@@ -14,6 +14,8 @@
 [<img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />](https://react.dev/)
 [<img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" title="Nextjs" />](https://nextjs.org/)
 
+### Focus on learning 🤓
+[<img src="https://skillicons.dev/icons?i=nextjs" alt="Java" title="Java" />](https://nextjs.org/)
 
 
 ### Connect with me
